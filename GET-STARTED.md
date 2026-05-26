@@ -41,7 +41,7 @@ my-chief-of-staff/
         └── today.md          # optional but useful — today's priorities
 ```
 
-**Optional later:** project notes, connectors config, scripts, a visual daily board. Aaron's Descript setup is a grown-up example: https://github.com/a-makelky/descript-chief-of-staff
+**Optional later:** `vault/projects/` for recurring work, connector notes, scripts, or a visual daily board. **Advanced example:** [descript-chief-of-staff](https://github.com/a-makelky/descript-chief-of-staff).
 
 ---
 
