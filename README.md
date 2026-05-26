@@ -1,5 +1,7 @@
 # claude-cowork-setup
 
+## Start here
+
 **Start here:** [GET-STARTED.md](./GET-STARTED.md) — universal onboarding for a personal **agent chief of staff** workspace (Cursor, Codex, Claude Code, or Claude Cowork).
 
 | Guide | What it covers |
